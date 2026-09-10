@@ -1,34 +1,27 @@
-<h1><strong>Hello guys!!</strong></h1>
+<h3>🗄️ Database Technologies</h3>
 
-<p>
-  My name is Angel Tejeda, I'm a Software Enginner trained in Technological
-  Institute of the Americas (ITLA) currently working on Defensor del Pueblo in
-  Dominican Republic. I'm open to help you in any moment.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
 </p>
 
+<h3>🌐 Web Technologies</h3>
 
-<ul>
-    <h3>Programming Languages</h3>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="C#"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Python"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="PHP"></li>
-    
-    <h3>Database Technologies</h3>
-    <li> <img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="MySQL"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="SQL Server"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="PostgreSQL"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="MongoDB"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Firebase"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="SQLite"></li>
-    
-    <h3>Web Technologies</h3>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="HTML"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="CSS"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="JavaScript"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="React"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="ASP.NET"></li>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Laravel"></li>    
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="ASP.NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
+</p>
 
-    <h3>Mobile Technologies</h3>
-    <li><img src="https://tse1.mm.bing.net/th/id/OIP.lHb-by-Z3SiY8ywOE_aR2QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Flutter"></li>
-</ul>
+<h3>📱 Mobile Technologies</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+</p>
