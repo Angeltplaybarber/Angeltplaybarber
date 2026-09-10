@@ -1,3 +1,12 @@
+<h1><strong>Hello guys!!</strong></h1>
+
+<p>
+  My name is Angel Tejeda, I'm a Software Enginner trained in Technological
+  Institute of the Americas (ITLA) currently working on Defensor del Pueblo in
+  Dominican Republic. I'm open to help you in any moment.
+</p>
+
+
 <h3>🗄️ Database Technologies</h3>
 
 <p align="left">
