@@ -10,7 +10,6 @@
 
 </div>
 
-<br>
 
 <h3>💻 Programming Languages</h3>
 
@@ -26,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
-<br>
+
 
 <h3>⚙️ Backend & Frameworks</h3>
 
@@ -38,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
 </p>
 
-<br>
+
 
 <h3>🎨 Frontend</h3>
 
@@ -50,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-<br>
 
 <h3>🗄️ Databases</h3>
 
@@ -68,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
 </p>
 
-<br>
+
 
 <h3>🚀 DevOps & Infrastructure</h3>
 
@@ -88,7 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="Apache"/>
 </p>
 
-<br>
 
 <h3>📱 Mobile</h3>
 
