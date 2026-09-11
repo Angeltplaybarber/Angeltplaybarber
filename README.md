@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1><strong>Hello guys!! 👋</strong></h1>
+<h1><strong>Hello guys!! </strong></h1>
 
 <p>
   My name is Angel Tejeda, I'm a Software Engineer trained at the Technological
